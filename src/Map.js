@@ -9,7 +9,6 @@ import {
 import { useState, useRef } from "react";
 import "./Map.css";
 import logo from "./logo.jpg";
-import loc from './loc.png'
 require('dotenv').config()
 let center = {
   lat: 12.971599,
